@@ -1,0 +1,32 @@
+\applications\Comics\com.jj.comics.apk
+\applications\Communication\com.icq.mobile.client.apk
+\applications\Communication\com.nimbuzz.apk
+\applications\Communication\com.pgmsoft.wifinder.apk
+\applications\Communication\com.uc.browser.apk
+\applications\Communication\com.webrich.ukdrivinglite.apk
+\applications\Finance\com.bloomberg.android.apk
+\applications\Finance\com.calculator.mortgage.apk
+\applications\Finance\com.istockmanager.apk
+\applications\Finance\com.linkzen.app.apk
+\applications\Finance\masterofmuppets.tipcalc.apk
+\applications\Health\com.youdroid.bmi.apk
+\applications\Lifestyle\com.layar.apk
+\applications\Lifestyle\kr.mobilefirst.carrierplan.apk
+\applications\Multimedia\com.slacker.radio.apk
+\applications\Multimedia\tunein.player.apk
+\applications\Multimedia\vStudio.Android.GPhoto.apk
+\applications\Productivity\com.adobe.reader.apk
+\applications\Productivity\com.metago.astro.apk
+\applications\Productivity\com.touchtype.swiftkey.trial.apk
+\applications\Productivity\jp.co.johospace.jorte.apk
+\applications\Shopping\com.cwesoftware.tipcalc.apk
+\applications\Social\com.okcupid.okcupid.apk
+\applications\Social\jp.r246.twicca.apk
+\applications\Software libraries\com.koufeikexing.apk
+\applications\Themes\com.anifree.anipet.aquarium.ad.apk
+\applications\Themes\com.anifree.anipet.koi.ad.apk
+\applications\Tools\com.google.android.apps.translate.apk
+\applications\Tools\com.motalen.batterytimelite.apk
+\applications\Travel\com.yelp.android.apk
+\games\Brain & Puzzle\com.dahl.brendan.wordsearch.view.apk
+\games\Cards & Casino\com.patience.revisited.apk
